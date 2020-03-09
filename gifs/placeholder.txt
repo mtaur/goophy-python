@@ -1,0 +1,8 @@
+This folder will hold gifs produced by goophy
+(Google scrape for Giphy functionality)
+
+Minor changes to how Google fetches or displays animated gifs could completely
+break this script, but it was fun while it lasted.
+
+I should know because I did a JavaScript version in 2018 and it stopped working.
+lol
